@@ -1,9 +1,3 @@
-<img width="1544" height="912" alt="data_architecture_tck" src="https://github.com/user-attachments/assets/37198362-e038-4310-9962-6de4c5176ae4" /># SQL_Data_warehouse_Project-
-Building  a modern data warehouse with sq; Server, including ETL processes, data modeling and analytics
-
-Welcome to the Data Warehouse and Analytics Project repository! 🚀
-This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
-
 # Data Warehouse and Analytics Project
 
 Welcome to the **Data Warehouse and Analytics Project** repository! 🚀  
